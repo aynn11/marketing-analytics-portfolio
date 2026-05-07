@@ -10,12 +10,13 @@ To identify consumer preferences, brand positioning, and market gaps in India's 
 - No brand strongly targets working professionals  
 - Significant gap between brand messaging and consumer expectations  
 
+## 📊 Dashboard Preview
+![Dashboard Preview](./dashboard-preview.png)
+
 ## Files
-- Report.pdf — full research report
--  Dashboard Preview -
-![Dashboard Preview](./dashboard-preview.png) 
-- Dashboard.xlsx — Excel-based analysis  
-- Tableau dashboard — live visualisation  
+- 📄 **Report:** [View PDF](./Report.pdf)  
+- 📊 **Excel Analysis (Raw Data):** [Open File](./Dashboard.xlsx)  
+- 📈 **Live Dashboard (Recommended):** [View on Tableau](https://public.tableau.com/views/HealthySnackingMarketIntelligenceAyaanAnsari/HealthySnackingBrandsMarketIntelligenceDashboard)
 
 ## Tools Used
-Excel · Tableau · Google Trends · Amazon Review Data.
+Excel · Tableau · Google Trends · Amazon Review Data
