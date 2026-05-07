@@ -2,9 +2,6 @@
 
 Personalised snack recommendation feature for Munchu app.
 
-## 📊 Process Flow
-![Process Flow](./Munchu_Process_Flow.png)
-
 ## Files
 - 📄 **BRD Document:** [View PDF](./BRD.pdf)  
 - 🧩 **User Flow Diagram:** [View Image](./Munchu_Process_Flow.png)
