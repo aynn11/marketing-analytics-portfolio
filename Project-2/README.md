@@ -1,9 +1,8 @@
 # Project 2 — Business Requirements Document
 
 Personalised snack recommendation feature for Munchu app.
+Designed a feature to reduce decision fatigue and improve snack discovery for users.
 
-## 📊 Process Flow
-![Process Flow](./Munchu_Process_Flow.png)
 
 ## Files
 - 📄 **BRD Document:** [View PDF](./BRD.pdf)  
