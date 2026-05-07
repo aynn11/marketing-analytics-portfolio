@@ -5,7 +5,8 @@ BMS Core Marketing | Graduate 2026
 Analysed 3 D2C healthy snacking brands across 10,000+ Amazon 
 ratings, Google Trends (52 weeks), pricing and social media.
 Tools: Excel, Tableau
-Files: Project1REPORT.pdf | PROJECT1 DASHBOARD.xlsx 
+
+**Files:** Project1REPORT.pdf | PROJECT1 DASHBOARD.xlsx  
 Tableau Live Dashboard: https://public.tableau.com/views/HealthySnackingMarketIntelligenceAyaanAnsari/HealthySnackingBrandsMarketIntelligenceDashboard
 
 ## Project 2 — Business Requirements Document
