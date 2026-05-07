@@ -11,7 +11,9 @@ To identify consumer preferences, brand positioning, and market gaps in India's 
 - Significant gap between brand messaging and consumer expectations  
 
 ## Files
-- Report.pdf — full research report  
+- Report.pdf — full research report
+-  Dashboard Preview -
+![Dashboard Preview](./dashboard-preview.png) 
 - Dashboard.xlsx — Excel-based analysis  
 - Tableau dashboard — live visualisation  
 
