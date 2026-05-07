@@ -27,7 +27,6 @@ Designed a personalised snack recommendation feature with user flow, functional 
 **Tools:** Jira · Confluence · Lucidchart  
 **Frameworks:** Agile · Scrum  
 
-
 ## 🎯 What I Bring
 
 - 📊 Data → Insight → Decision mindset  
@@ -35,7 +34,7 @@ Designed a personalised snack recommendation feature with user flow, functional 
 - 🧩 Structured, business-first thinking  
 - 📄 Clear and concise documentation  
 
-
 ## 📬 Connect
-
+- Email: okciciayaan@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ayaan-ansari-a3715a408
 - 🔗 GitHub: https://github.com/aynn11/marketing-analytics-portfolio
