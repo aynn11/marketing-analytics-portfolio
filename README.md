@@ -1,8 +1,7 @@
-# 👋 Ayaan Ansari — Marketing Analytics Portfolio
+# 👋 Ayaan Ansari. 
+> 📌 Portfolio showcasing marketing analytics & business analysis projects
 
-**BMS Core Marketing | Graduate 2026**  
 Turning **consumer data into business insights** through analytics and structured problem-solving.
-
 
 ## 🚀 Featured Projects
 
